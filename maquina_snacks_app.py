@@ -77,7 +77,7 @@ class MaquinaSnacks:
         print('Snack agregado correctamente.')
 
 
-# programa principal
+# ejecucion programa principal
 if __name__ == '__main__':
     maquina_snacks = MaquinaSnacks()
     maquina_snacks.maquina_snacks()
