@@ -24,7 +24,7 @@ El proyecto contiene los siguientes archivos y carpetas:
 
 ## ⚙️ Requisitos
 
-- Python 3.6 o superior
+- Python 3.13 o superior
 - Sistema operativo: Windows 10
 - No requiere librerías externas
 
