@@ -1,39 +1,37 @@
-# 🧃 Máquina de Snacks en Python
+# 🧃 Snack Machine in Python
 
-Aplicación de consola que simula una máquina expendedora de snacks. Permite comprar productos, ver tickets de compra y gestionar el inventario de forma básica. Útil como práctica de programación orientada a objetos, estructuras de control y entrada/salida.
-
----
-
-## 📚 Basado en:
-
-- Curso de IBM Developer Skills Network
-- Curso de Udemy sobre programación en Python con proyectos prácticos
+Console application that simulates a snack vending machine. Allows you to purchase products, view purchase receipts, and manage basic inventory. Useful for practicing object-oriented programming, control structures, and input/output.
 
 ---
 
-## 📂 Estructura del proyecto
+## 📚 Based on:
 
-El proyecto contiene los siguientes archivos y carpetas:
-
-- **maquina_snacks_app.py**: archivo principal que ejecuta el programa y contiene la lógica del menú.
-- **modul/**: carpeta con los módulos del sistema:
-  - **ServicioSnacks.py**: servicio que gestiona el inventario de snacks.
-  - **snack.py**: clase `Snack`, representa cada producto individual.
+- IBM Developer Skills Network Course
+- Udemy Course on Python Programming with Hands-on Projects
 
 ---
 
-## ⚙️ Requisitos
+## 📂 Project Structure
 
-- Python 3.13 o superior
-- Sistema operativo: Windows 10
-- No requiere librerías externas
+The project contains the following files and folders:
+
+- **maquina_snacks_app.py**: Main file that runs the program and contains the menu logic.
+- **modul/**: Folder with the system modules.
+- **ServicioSnacks.py**: Service that manages the snack inventory.
+- **snack.py**: `Snack` class, representing each individual product.
 
 ---
 
-## ▶️ Ejecución
+## ⚙️ Requirements
 
-Desde una consola o terminal, situándote en la carpeta del proyecto:
+- Python 3.13 or higher
+- No external libraries required
+
+---
+
+## ▶️ Execution
+
+From a console or terminal, navigate to the project folder:
 
 ```bash
 python maquina_snacks_app.py
-
