@@ -3,3 +3,4 @@
 3,Sandwich,120
 4,ffffff,44444.0
 5,rrr,45.0
+6,sopa,12.0

@@ -69,6 +69,7 @@ class MaquinaSnacks:
         print(f'\tTotal -> ${total:.2f}')
 
 
+    # utiliza agregar_snacks de ServicioSnacks
     def agregar_snack(self):
         nombre = input('nombre del snack: ')
         precio = float(input('precio del snack: '))
